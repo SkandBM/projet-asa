@@ -1,0 +1,62 @@
+.navi{
+    padding: 10px 10px 10px 10px 
+
+}
+.navbar{
+    box-shadow: 10px 10px 10px gainsboro; 
+    margin-bottom: 50px
+}
+
+.nav-item {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.nav-link{
+    color:	#F0F0F0 !important
+}
+
+
+.ffont{
+    color: #F0F0F0;
+    padding-left: 50px
+    
+}
+
+.ftr {
+    padding-top: 50px
+}
+
+
+
+
+
+
+
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+.haha{
+    margin: auto; 
+    vertical-align: middle;
+    border: 5px;
+    border-style: outset;
+    background-color: rgb(136, 190, 30, 0.8);
+    font-weight: 900;
+}  
+
+
+
+
+

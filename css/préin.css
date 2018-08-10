@@ -1,0 +1,84 @@
+.navi{
+    padding: 10px 10px 10px 10px 
+
+}
+.navbar{
+    box-shadow: 10px 10px 10px gainsboro; 
+    margin-bottom: 50px
+}
+
+.nav-item {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.nav-link{
+    color:	#F0F0F0 !important
+}
+
+
+.ffont{
+    color: #F0F0F0;
+    padding-left: 50px
+    
+}
+
+.ftr {
+    padding-top: 50px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#body{background-color: lightcoral;}
+
+
+#azerty{
+	margin: 60px;
+	padding-left:60px;
+	padding-top:60px;
+	padding-bottom:60px;
+	padding-right:60px;
+
+}
+#Prénom{
+	width: 200px !important;
+
+}
+#date{
+	width: 200px !important;
+
+}
+#Nom{
+	width: 200px !important;
+
+}
+
+#mail{
+	width: 200px !important;
+
+}
+#tel{
+	width: 200px !important;
+
+}
+#tut{
+	width: 200px !important;
+
+}
+.legend{
+	width: 200px !important;
+
+}
+.alert{
+  text-align: center; padding:10px; background:#79c879; 
+  color:#fff; margin-bottom:10px; display:none;
+}

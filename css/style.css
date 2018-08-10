@@ -1,0 +1,28 @@
+.navi{
+    padding: 10px 10px 10px 10px 
+
+}
+.navbar{
+    box-shadow: 10px 10px 10px gainsboro; 
+    margin-bottom: 50px
+}
+
+.nav-item {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.nav-link{
+    color:	#F0F0F0 !important
+}
+
+
+.ffont{
+    color: #F0F0F0;
+    padding-left: 50px
+    
+}
+
+.ftr {
+    padding-top: 50px
+}
+
